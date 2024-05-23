@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M0hsinali
-- 👀 I’m interested in Data Science...
-- 🌱 I’m currently learning R and Python programming language for data science...
-- 💞️ I’m looking to collaborate on Data  science expert
+👋 Hi, I’m Mohsin Ali
+👀 I’m interested in Flutter development and mobile app design
+🌱 I’m currently enhancing my skills in advanced Flutter animations and state management
+💞️ I’m looking to collaborate on innovative Flutter projects and open-source contributions
